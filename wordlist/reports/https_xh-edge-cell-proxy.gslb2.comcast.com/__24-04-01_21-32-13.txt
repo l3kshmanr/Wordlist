@@ -1,0 +1,5 @@
+# Dirsearch started Mon Apr  1 21:37:07 2024 as: /home/kali/.local/bin/dirsearch -u https://xh-edge-cell-proxy.gslb2.comcast.com/
+
+400     0B   https://xh-edge-cell-proxy.gslb2.comcast.com/\..\..\..\..\..\..\..\..\..\etc\passwd
+502   207B   https://xh-edge-cell-proxy.gslb2.comcast.com/myazadmin
+200     0B   https://xh-edge-cell-proxy.gslb2.comcast.com/soap/
