@@ -1,6 +1,0 @@
-# Dirsearch started Sat Apr 20 10:57:29 2024 as: /home/kali/.local/bin/dirsearch -u https://care-portal-st.xfinity.com/
-
-302     0B   https://care-portal-st.xfinity.com/js    -> REDIRECTS TO: https://care-portal-st.xfinity.com/js/
-302     0B   https://care-portal-st.xfinity.com/css    -> REDIRECTS TO: https://care-portal-st.xfinity.com/css/
-302     0B   https://care-portal-st.xfinity.com/fonts    -> REDIRECTS TO: https://care-portal-st.xfinity.com/fonts/
-302     0B   https://care-portal-st.xfinity.com/reset    -> REDIRECTS TO: https://login.microsoftonline.com/906aefe9-76a7-4f65-b82d-5ec20775d5aa/oauth2/v2.0/authorize?client_id=ac10919f-891c-43b3-bd47-b3fc6abf1c27&redirect_uri=https://care-portal-st.xfinity.com/verifyToken&response_type=code&scope=openid%20profile%20email%20User.Read&pfidpadapterid=loginform
